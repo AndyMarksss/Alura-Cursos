@@ -20,14 +20,14 @@ function exibirTexto(tag, texto) {
     // Exemplo: campo.innerHTML = 'Jogo do Número Secreto';
 
 // ----------------------------------- LEITURA EM VOZ ----------------------------------- //
-//    if ('speechSynthesis' in window) {
-//        let utterance = new SpeechSynthesisUtterance(texto);
-//        utterance.lang = 'pt-BR';
-//        utterance.rate = 1.5;
-//        window.speechSynthesis.speak(utterance);
-//    } else {
-//        console.log("Web Speech API não suportada neste navegador.");
-//    }
+   if ('speechSynthesis' in window) {
+       let utterance = new SpeechSynthesisUtterance(texto);
+       utterance.lang = 'pt-BR';
+       utterance.rate = 1.5;
+       window.speechSynthesis.speak(utterance);
+   } else {
+       console.log("Web Speech API não suportada neste navegador.");
+   }
     // Verifica se a API de fala está disponível no navegador
     // Se estiver, cria uma nova instância de SpeechSynthesisUtterance com o texto
     // Define o idioma como português do Brasil e a taxa de fala
