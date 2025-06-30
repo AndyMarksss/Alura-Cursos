@@ -41,31 +41,31 @@ Inclui formações completas em programação, imersões temáticas e experiment
 ---
 
 ## 🎯 Trilha em andamento — C# e .NET para Iniciantes
+
+Plano de estudo com **33 cursos** que leva do “olá, mundo” no C# até testes, boas práticas e microserviços em .NET — perfeito para quem quer construir uma base sólida antes de seguir para especializações.
+
 <div align="center">
 <!-- Badge de progresso -->
 <img alt="Meu Progresso"
-     src="https://img.shields.io/static/v1?label=PROGRESSO&message=4%2F33%20cursos&color=808080&style=for-the-badge">
-
+     src="https://img.shields.io/static/v1?label=PROGRESSO&message=04%2F33%20cursos&color=808080&style=for-the-badge">
+<!-- Link do Curso -->
 <a href="https://cursos.alura.com.br/c-e-net-para-iniciantes-sua-primeira-jornada-na-programacao-anderson-marques15-1750259461276-p951365" target="_blank" rel="noopener noreferrer">
   <img alt="Formação .NET para Iniciantes"
        src="https://img.shields.io/static/v1?label=Forma%C3%A7%C3%A3o&message=.NET%20para%20Iniciantes&color=512BD4&logo=dotnet&logoColor=fff&style=for-the-badge">
 </a>
-
 </div>
-
-> NOTA: Plano de estudo com **33 cursos** que leva do “olá, mundo” no C# até testes, boas práticas e microserviços em .NET — perfeito para quem quer construir uma base sólida antes de seguir para especializações.
 
 <details>
 <summary><strong>Sequenciamento sugerido pela Alura&nbsp;▶</strong></summary>
 
-1. **A partir do zero: iniciante em programação**  
-2. **Aprenda a programar em C# com Orientação a Objetos**  
-3. **C# e Orientação a Objetos: coleções, arquivos e bibliotecas**  
-4. **C# Web: crie aplicações usando ASP.NET**  
-5. **ASP.NET Core: crie aplicações com C#, .NET, Entity Framework e LINQ**  
-6. **Testes em .NET**  
-7. **Boas práticas em C#**  
-8. **Aprofunde em .NET com Arquitetura de Microserviços e RabbitMQ**
+1. **A partir do zero: iniciante em programação** — *5 cursos*  
+2. **Aprenda a programar em C# com Orientação a Objetos** — *4 cursos*  
+3. **C# e Orientação a Objetos: coleções, arquivos e bibliotecas** — *3 cursos*  
+4. **C# Web: crie aplicações usando ASP.NET** — *4 cursos*  
+5. **ASP.NET Core: crie aplicações com C#, .NET, Entity Framework e LINQ** — *4 cursos*  
+6. **Testes em .NET** — *7 cursos*  
+7. **Boas práticas em C#** — *3 cursos*  
+8. **Aprofunde em .NET com Arquitetura de Microserviços e RabbitMQ** — *3 cursos*  
 
 </details>
 
@@ -82,14 +82,23 @@ Inclui formações completas em programação, imersões temáticas e experiment
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26">
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6">
-<!--   <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=239120"> -->
-<!--   <img src="https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet&logoColor=512BD4"> -->
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032">
-</p>
+<div style="display:flex;gap:6px;flex-wrap:wrap">
+
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+
+  <!-- CSS3 com ícone branco visível -->
+<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white&logoWidth=24" />
+
+
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032" />
+
+  <!-- badges futuros -->
+  <!-- <img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4" /> -->
+  <!-- <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=239120" /> -->
+  <!-- <img src="https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet&logoColor=512BD4" /> -->
+
+</div>
 
 ---
 
