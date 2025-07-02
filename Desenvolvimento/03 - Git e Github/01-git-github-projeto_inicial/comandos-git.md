@@ -4,13 +4,15 @@
 > Os exemplos abaixo já refletem essa divisão, mas mantêm o **`git checkout`** (marcado como *legado*) caso você trabalhe em versões mais antigas.
 
 ### 📄 Visualizar estado e histórico
-| Comando             | Descrição                                                                     |
-| ------------------- | ----------------------------------------------------------------------------- |
-| `git status`        | Mostra o estado do diretório de trabalho, arquivos no *stage* e branch atual. |
-| `git diff`          | Exibe as diferenças entre arquivos modificados e o último commit.             |
-| `git diff --help`   | Abre a documentação do `git diff`.                                            |
-| `git log`           | Exibe o histórico completo de commits com autor, data e mensagem.             |
-| `git log --oneline` | Histórico de commits resumido (um commit por linha).                          |
+| Comando               | Descrição                                                                                                                    |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| `git status`          | Mostra o estado do diretório de trabalho, arquivos no *stage* e branch atual.                                                |
+| `git diff`            | Exibe as diferenças entre arquivos modificados e o último commit.                                                            |
+| `git diff --help`     | Abre a documentação do `git diff`.                                                                                           |
+| `git log`             | Exibe o histórico completo de commits com autor, data e mensagem (adicione `<branch>` para ver o histórico de outra branch). |
+| `git log --oneline`   | Histórico de commits resumido (um commit por linha).                                                                         |
+| `git blame <arquivo>` | Mostra quem alterou cada linha de um arquivo, exibindo o commit responsável.                                                 |
+| `git show <hash>`     | Exibe detalhes de um commit específico (autor, data, mensagem, diff).                                                        |
 
 ### ✍️ Adicionar e confirmar mudanças
 | Comando                    | Descrição                                                                                 |
@@ -27,7 +29,7 @@
 | `git restore .`                           | Restaura **todos** os arquivos modificados no diretório atual para o estado do último commit. |
 | `git restore --staged <arquivo>`          | Remove `<arquivo>` do *stage* sem alterar o conteúdo no diretório de trabalho.                |
 | `git restore --source <commit> <arquivo>` | Restaura `<arquivo>` para o estado que tinha em um commit específico.                         |
-| `git checkout -- .`                       | *Legado*: desfaz alterações em todos os arquivos modificados (equivalente a `git restore .`). |
+| `git checkout -- .`                       | *Legado*: desfaz alterações em todos os arquivos modificados (equivale a `git restore .`).    |
 
 ### 📦 Trabalhar com *stash*
 | Comando                        | Descrição                                                           |
@@ -54,25 +56,27 @@
 | `git checkout`                  | *Legado*: comando multifuncional para trocar de branch, restaurar arquivos ou inspecionar commits. |
 
 ### 🔀 Integração de branches e histórico
-| Comando                    | Descrição                                                                                                 |
-| -------------------------- | --------------------------------------------------------------------------------------------------------- |
-| `git merge <branch>`       | Integra as alterações de `<branch>` na branch atual, mantendo commits separados.                          |
-| `git rebase <branch-base>` | Reescreve o histórico, aplicando os commits da branch atual sobre `<branch-base>`. Ex.: `git rebase main` |
+| Comando                    | Descrição                                                                         |
+| -------------------------- | --------------------------------------------------------------------------------- |
+| `git merge <branch>`       | Integra as alterações de `<branch>` na branch atual, mantendo commits separados.  |
+| `git rebase <branch-base>` | Reescreve o histórico aplicando os commits da branch atual sobre `<branch-base>`. |
+| `git cherry-pick <hash>`   | Aplica as mudanças introduzidas por um commit específico na branch atual.         |
 
 ### 🏷️ Trabalhar com tags
-| Comando                                    | Descrição                                                                                  |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| `git tag`                                  | Lista todas as tags existentes no repositório.                                             |
-| `git tag <nome-da-tag>`                    | Cria uma tag **leve** no commit atual (*HEAD*).                                            |
-| `git tag <nome-da-tag> <código-do-commit>` | Cria uma tag **leve** em um commit específico (hash).                                      |
-| `git tag -a <nome-da-tag> -m "mensagem"`   | Cria uma tag **anotada** com mensagem, autor e data.                                       |
-| `git tag -d <nome-da-tag>`                 | Remove uma tag local.                                                                      |
-| `git tag -v <nome-da-tag>`                 | Exibe detalhes e verifica a assinatura de uma tag anotada (commit, autor, data, mensagem). |
+| Comando                                  | Descrição                                                  |
+| ---------------------------------------- | ---------------------------------------------------------- |
+| `git tag`                                | Lista todas as tags existentes no repositório.             |
+| `git tag <nome-da-tag>`                  | Cria uma tag **leve** no commit atual (*HEAD*).            |
+| `git tag <nome-da-tag> <hash>`           | Cria uma tag **leve** em um commit específico.             |
+| `git tag -a <nome-da-tag> -m "mensagem"` | Cria uma tag **anotada** com mensagem, autor e data.       |
+| `git tag -d <nome-da-tag>`               | Remove uma tag local.                                      |
+| `git tag -v <nome-da-tag>`               | Exibe detalhes e verifica a assinatura de uma tag anotada. |
 
 ### ☁️ Enviar para o repositório remoto
-| Comando                    | Descrição                                           |
-| -------------------------- | --------------------------------------------------- |
-| `git push origin main`     | Envia a branch `main` para o remoto `origin`.       |
-| `git push origin <branch>` | Envia a branch especificada para o remoto `origin`. |
-| `git push origin <tag>`    | Envia a tag indicada para o remoto `origin`.        |
-| `git push origin --tags`   | Envia **todas** as tags para o remoto `origin`.     |
+| Comando                               | Descrição                                                       |
+| ------------------------------------- | --------------------------------------------------------------- |
+| `git push origin main`                | Envia a branch `main` para o remoto `origin`.                   |
+| `git push origin <branch>`            | Envia a branch especificada para o remoto `origin`.             |
+| `git push origin <branch1> <branch2>` | Envia **várias** branches de uma só vez para o remoto `origin`. |
+| `git push origin <tag>`               | Envia a tag indicada para o remoto `origin`.                    |
+| `git push origin --tags`              | Envia **todas** as tags para o remoto `origin`.                 |
