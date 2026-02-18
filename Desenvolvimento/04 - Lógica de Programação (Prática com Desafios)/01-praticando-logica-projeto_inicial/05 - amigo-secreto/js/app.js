@@ -11,6 +11,19 @@ let amigos = [];
 function adicionar() {
     // Pega o input do nome e o local onde a lista aparece
     let amigo = document.getElementById('nome-amigo');
+
+    // 1ª validação: Verifica se o nome é vazio ou só tem espaços e exibe um alerta se for o caso e impede a adição de nomes vazios ou apenas espaços na lista e usa return para sair da função sem adicionar o nome
+    if (amigo.value == '') {
+        alert('Digite o nome do amigo!');
+        return;
+    }
+
+    // 3ª validação: Verifica se o nome já existe na lista e exibe um alerta se for o caso e impede a adição de nomes duplicados na lista e usa return para sair da função sem adicionar o nome
+    if (amigos.includes(amigo.value)) {
+        alert('Esse nome já foi adicionado!');
+        return;
+    }
+
     let lista = document.getElementById('lista-amigos');
 
     // Adiciona o nome digitado no array
@@ -29,6 +42,13 @@ function adicionar() {
 
 // Embaralha a lista e mostra o resultado do amigo secreto na tela
 function sortear() {
+
+    // 2ª validação: verifica se há pelo menos 4 nomes na lista e exibe um alerta se não houver o suficiente para um sorteio justo e usa return para sair da função sem realizar o sorteio
+    if (amigos.length < 4) {
+        alert('Adicione pelo menos 4!');
+        return;
+    }
+
     // Mistura a ordem dos nomes
     embaralhar(amigos);
 
@@ -61,3 +81,5 @@ function reiniciar() {
 }
 
 // innerHTML: altera o conteúdo HTML de um elemento (aqui, usado para escrever e limpar o resultado do sorteio).
+
+
