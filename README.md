@@ -47,7 +47,7 @@ Plano de estudo com **33 cursos** que leva do “olá, mundo” no C# até teste
 <div align="center">
 <!-- Badge de progresso -->
 <img alt="Meu Progresso"
-     src="https://img.shields.io/static/v1?label=PROGRESSO&message=04%2F33%20cursos&color=808080&style=for-the-badge">
+     src="https://img.shields.io/static/v1?label=PROGRESSO&message=06%2F34%20cursos&color=808080&style=for-the-badge">
 <!-- Link do Curso -->
 <a href="https://cursos.alura.com.br/c-e-net-para-iniciantes-sua-primeira-jornada-na-programacao-anderson-marques15-1750259461276-p951365" target="_blank" rel="noopener noreferrer">
   <img alt="Formação .NET para Iniciantes"
