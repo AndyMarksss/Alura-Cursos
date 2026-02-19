@@ -1,3 +1,35 @@
+<div align="center">
+
+# 🌿 Git & GitHub — projeto + guia
+
+Projeto prático para treinar versionamento e fluxo Git/GitHub.
+Aqui também fica um **guia de comandos** (no próprio README e no `comandos-git.html`).
+
+<br/>
+
+<p align="center">
+  <a href="../../../README.md">🏠 Home</a> •
+  <a href="../../README.md">⬅️ Desenvolvimento</a> •
+  <a href="../README.md">⬅️ Módulo 03</a>
+</p>
+
+</div>
+
+---
+
+## 🎮 Projeto prático
+
+### O que tem no código
+- DOM (`querySelector`, `getElementById`)
+- controle de tentativas e reinício
+- sorteio sem repetição com `listaDeNumerosSorteados.includes()`
+- leitura em voz com `responsiveVoice.speak(...)`
+
+### ▶️ Rodando
+Abra `index.html` (Live Server recomendado).
+
+---
+
 ## Comandos Git Essenciais (versões 2.23 +)
 
 > Desde o Git 2.23 (agosto / 2019), o clássico **`git checkout`** foi dividido em dois comandos mais específicos — **`git switch`** e **`git restore`** — para tornar a interface mais coerente.  
@@ -80,3 +112,8 @@
 | `git push origin <branch1> <branch2>` | Envia **várias** branches de uma só vez para o remoto `origin`. |
 | `git push origin <tag>`               | Envia a tag indicada para o remoto `origin`.                    |
 | `git push origin --tags`              | Envia **todas** as tags para o remoto `origin`.                 |
+
+
+---
+
+<p align="center"><sub>May&nbsp;the&nbsp;force&nbsp;be&nbsp;with&nbsp;you. 🌓</sub></p>

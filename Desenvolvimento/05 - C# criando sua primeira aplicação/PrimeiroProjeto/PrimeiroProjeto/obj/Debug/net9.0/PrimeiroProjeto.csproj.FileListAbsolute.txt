@@ -1,0 +1,15 @@
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net9.0\PrimeiroProjeto.exe
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net9.0\PrimeiroProjeto.deps.json
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net9.0\PrimeiroProjeto.runtimeconfig.json
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net9.0\PrimeiroProjeto.dll
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net9.0\PrimeiroProjeto.pdb
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.sourcelink.json
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.dll
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\refint\PrimeiroProjeto.dll
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.pdb
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.genruntimeconfig.cache
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\ref\PrimeiroProjeto.dll

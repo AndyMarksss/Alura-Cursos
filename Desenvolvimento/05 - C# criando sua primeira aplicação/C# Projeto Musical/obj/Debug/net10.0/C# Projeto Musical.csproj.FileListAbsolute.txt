@@ -1,0 +1,15 @@
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\C# Projeto Musical\bin\Debug\net10.0\C# Projeto Musical.exe
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\C# Projeto Musical\bin\Debug\net10.0\C# Projeto Musical.deps.json
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\C# Projeto Musical\bin\Debug\net10.0\C# Projeto Musical.runtimeconfig.json
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\C# Projeto Musical\bin\Debug\net10.0\C# Projeto Musical.dll
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\C# Projeto Musical\bin\Debug\net10.0\C# Projeto Musical.pdb
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\C# Projeto Musical\obj\Debug\net10.0\C# Projeto Musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\C# Projeto Musical\obj\Debug\net10.0\C# Projeto Musical.AssemblyInfoInputs.cache
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\C# Projeto Musical\obj\Debug\net10.0\C# Projeto Musical.AssemblyInfo.cs
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\C# Projeto Musical\obj\Debug\net10.0\C# Projeto Musical.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\C# Projeto Musical\obj\Debug\net10.0\C# Projeto Musical.sourcelink.json
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\C# Projeto Musical\obj\Debug\net10.0\C# Projeto Musical.dll
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\C# Projeto Musical\obj\Debug\net10.0\refint\C# Projeto Musical.dll
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\C# Projeto Musical\obj\Debug\net10.0\C# Projeto Musical.pdb
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\C# Projeto Musical\obj\Debug\net10.0\C# Projeto Musical.genruntimeconfig.cache
+C:\Users\ander\OneDrive\Documentos\Alura Cursos\Desenvolvimento\05 - C# criando sua primeira aplicação\C# Projeto Musical\obj\Debug\net10.0\ref\C# Projeto Musical.dll
