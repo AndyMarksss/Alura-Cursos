@@ -87,18 +87,58 @@ Plano de estudo com **35 cursos** que leva do “olá, mundo” no C# até teste
 <br>
 
 # 🛠️ Tecnologias & Ferramentas
-
-<p align="center">
-
-  | Categoria | Tecnologias |
-  |---|---|
-  | **Front-end** | <img height="28" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="28" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height="28" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> |
-  | **Versionamento / plataforma** | <img height="28" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img height="28" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img height="28" alt="GitHub Copilot" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/githubcopilot.svg" /> <img height="28" alt="OpenAI / ChatGPT" src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/openai.svg" /> |
-  | **C# / .NET** | <img height="28" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img height="28" alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> |
-  | **WordPress** | <img height="28" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <img height="28" alt="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> <img height="28" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> |
-  | **IDE utilizadas** | <img height="28" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img height="28" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> |
-</p>
+<br>
+<table align="center">
+  <thead>
+    <tr>
+      <th align="left" width="220">Categoria</th>
+      <th align="left">Tecnologias</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Front-end</strong></td>
+      <td>
+        <img height="28" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
+        <img height="28" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;
+        <img height="28" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Versionamento / plataforma</strong></td>
+      <td>
+        <img height="28" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
+        <img height="28" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;
+        <img height="28" alt="GitHub Copilot" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/githubcopilot.svg" />&nbsp;
+        <img height="28" alt="OpenAI / ChatGPT" src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/openai.svg" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>C# / .NET</strong></td>
+      <td>
+        <img height="28" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;
+        <img height="28" alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>WordPress</strong></td>
+      <td>
+        <img height="28" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp;
+        <img height="28" alt="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />&nbsp;
+        <img height="28" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>IDE utilizadas</strong></td>
+      <td>
+        <img height="28" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;
+        <img height="28" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 <p align="center"><sub>May&nbsp;the&nbsp;force&nbsp;be&nbsp;with&nbsp;you. 🌓</sub></p>
+
