@@ -26,15 +26,18 @@ Inclui formações completas em programação, imersões temáticas e experiment
 ## ✨ Conteúdo
 
 - 📘 **[Desenvolvimento](./Desenvolvimento/)**  
-  Formações longas que aprofundam conhecimentos em **C#**, **JavaScript**, **.NET**, **PHP** e outros —  
-  passando por lógica, estruturas de dados, orientação a objetos e boas práticas de código limpo.
+  Formações longas (principalmente **JavaScript** e início de **C#/.NET**) com projetos e desafios.
+  - `01` [Lógica de Programação (JS)](./Desenvolvimento/01%20-%20Lógica%20de%20Programação%20(JS)/)  
+  - `02` [Funções e Listas (DOM, arrays, desafios)](./Desenvolvimento/02%20-%20Lógica%20de%20Programação%20(Funções%20e%20Listas)/)  
+  - `03` [Git e GitHub (projetos + guia)](./Desenvolvimento/03%20-%20Git%20e%20Github/)   
+  - `04` [Lógica na prática (mini-projetos com DOM)](./Desenvolvimento/04%20-%20Lógica%20de%20Programação%20(Prática%20com%20Desafios)/)  
+  - `05` [C# criando sua primeira aplicação](./Desenvolvimento/05%20-%20C#%20criando%20sua%20primeira%20aplicação/)
 
 - 🧪 **[Imersões](./Imersão/)**  
-  Sprints intensivos oferecidos periodicamente pela Alura (Front-End, Back-End, Data, etc.).  
-  O foco é sair do zero ao protótipo **em poucos dias**, aplicando conceitos na prática.
+  Projetos curtos e diretos ao ponto (ex.: **Front-End 2ª Edição**).
 
 - 🖌️ **[WordPress](./Wordpress/)**  
-  Tudo sobre criação de temas, desenvolvimento de plugins e otimizações de banco de dados usando **PHP + MySQL**.
+  Instalação completa do WordPress e arquivos de banco para estudo (**PHP + MySQL**).
 
 > 📝 NOTA: À medida que avanço nas formações e imersões, os respectivos projetos e anotações são adicionados ou atualizados aqui.
 
@@ -42,35 +45,37 @@ Inclui formações completas em programação, imersões temáticas e experiment
 
 ## 🎯 Trilha em andamento — C# e .NET para Iniciantes
 
-Plano de estudo com **33 cursos** que leva do “olá, mundo” no C# até testes, boas práticas e microserviços em .NET — perfeito para quem quer construir uma base sólida antes de seguir para especializações.
+Plano de estudo com **35 cursos** que leva do “olá, mundo” no C# até testes, boas práticas e microserviços em .NET — perfeito para quem quer construir uma base sólida antes de seguir para especializações.
 
 <div align="center">
-<!-- Badge de progresso -->
+
 <img alt="Meu Progresso"
-     src="https://img.shields.io/static/v1?label=PROGRESSO&message=06%2F34%20cursos&color=808080&style=for-the-badge">
-<!-- Link do Curso -->
+     src="https://img.shields.io/static/v1?label=PROGRESSO&message=07%2F35%20cursos&color=808080&style=for-the-badge">
+
 <a href="https://cursos.alura.com.br/c-e-net-para-iniciantes-sua-primeira-jornada-na-programacao-anderson-marques15-1750259461276-p951365" target="_blank" rel="noopener noreferrer">
-  <img alt="Formação .NET para Iniciantes"
-       src="https://img.shields.io/static/v1?label=Forma%C3%A7%C3%A3o&message=.NET%20para%20Iniciantes&color=512BD4&logo=dotnet&logoColor=fff&style=for-the-badge">
+  <img alt="Formação C# e .NET para Iniciantes"
+       src="https://img.shields.io/static/v1?label=Forma%C3%A7%C3%A3o&message=C%23%20e%20.NET%20para%20Iniciantes&color=512BD4&logo=dotnet&logoColor=fff&style=for-the-badge">
 </a>
+
 </div>
 
-<details>
-<summary><strong>Sequenciamento sugerido pela Alura&nbsp;▶</strong></summary>
 
-1. **A partir do zero: iniciante em programação** — *5 cursos*  
-2. **Aprenda a programar em C# com Orientação a Objetos** — *4 cursos*  
-3. **C# e Orientação a Objetos: coleções, arquivos e bibliotecas** — *3 cursos*  
-4. **C# Web: crie aplicações usando ASP.NET** — *4 cursos*  
-5. **ASP.NET Core: crie aplicações com C#, .NET, Entity Framework e LINQ** — *4 cursos*  
-6. **Testes em .NET** — *7 cursos*  
-7. **Boas práticas em C#** — *3 cursos*  
-8. **Aprofunde em .NET com Arquitetura de Microserviços e RabbitMQ** — *3 cursos*  
+<summary><strong>Sequenciamento da trilha de cursos:</strong></summary>
 
-</details>
+1. ✅ **Iniciante em programação** — *5 cursos*  
+2. ✅ **Git e GitHub: dominando controle de versão de código** — *1 curso*  
+3. ✅ **GitHub Copilot e ChatGPT: impulsionando seu desenvolvimento com IA** — *1 curso*  
+4. ⏳ **Aprenda a programar em C# com Orientação a Objetos** — *4 cursos*  
+5. ⏳ **C# e Orientação a Objetos: coleções, arquivos e bibliotecas** — *3 cursos*  
+6. ⏳ **C# Web: crie aplicações usando ASP.NET** — *4 cursos*  
+7. ⏳ **ASPNet Core: crie aplicações com C#, .NET, Entity Framework e LINQ** — *4 cursos*  
+8. ⏳ **Testes em .NET** — *7 cursos*  
+9. ⏳ **Boas práticas em C#** — *3 cursos*  
+10. ⏳ **Arquitetura de Microserviços e RabbitMQ com .NET** — *3 cursos*
+
+
 
 <div align="center">
-<!-- Banner da formação -->
   <a href="https://cursos.alura.com.br/c-e-net-para-iniciantes-sua-primeira-jornada-na-programacao-anderson-marques15-1750259461276-p951365" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn1.gnarususercontent.com.br/1/6335308/0c5270df-c53d-40cf-801b-84b69296fc9d.jpg" width="80%" alt="Fluxo da formação .NET para Iniciantes">
   </a>  
@@ -79,26 +84,20 @@ Plano de estudo com **33 cursos** que leva do “olá, mundo” no C# até teste
 > NOTA: Cada formação/curso concluído ganhará uma sub-pasta respectiva dentro de **Desenvolvimento**, contendo códigos-fonte, desafios resolvidos e anotações pessoais.
 
 ---
+<br>
 
-## 🛠️ Tecnologias & Ferramentas
+# 🛠️ Tecnologias & Ferramentas
 
-<div style="display:flex;gap:6px;flex-wrap:wrap">
+<p align="center">
 
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26" />
-
-  <!-- CSS3 com ícone branco visível -->
-<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white&logoWidth=24" />
-
-
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032" />
-
-  <!-- badges futuros -->
-  <!-- <img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4" /> -->
-  <!-- <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=239120" /> -->
-  <!-- <img src="https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet&logoColor=512BD4" /> -->
-
-</div>
+  | Categoria | Tecnologias |
+  |---|---|
+  | **Front-end** | <img height="28" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="28" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height="28" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> |
+  | **Versionamento / plataforma** | <img height="28" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img height="28" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img height="28" alt="GitHub Copilot" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/githubcopilot.svg" /> <img height="28" alt="OpenAI / ChatGPT" src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/openai.svg" /> |
+  | **C# / .NET** | <img height="28" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img height="28" alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> |
+  | **WordPress** | <img height="28" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <img height="28" alt="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> <img height="28" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> |
+  | **IDE utilizadas** | <img height="28" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img height="28" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> |
+</p>
 
 ---
 

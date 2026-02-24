@@ -2,8 +2,8 @@
 
 # 🌿 03 — Git e Github
 
-Módulo focado em versionamento: comandos, fluxo de trabalho e um projeto prático.
-Dentro dele, você encontra um guia completo (README + HTML) e um mini-projeto.
+Módulo focado em versionamento: comandos, fluxo de trabalho e projetos práticos.
+Aqui você encontra um guia completo (README + HTML) e mini-projetos para treinar Git/GitHub.
 
 <br/>
 
@@ -20,6 +20,9 @@ Dentro dele, você encontra um guia completo (README + HTML) e um mini-projeto.
 
 - 📦 **[01-git-github-projeto_inicial](<./01-git-github-projeto_inicial/>)**  
   Projeto com HTML/CSS/JS + guia de comandos Git (inclui `switch`/`restore`).
+
+- 🤖🎮 **[02-GitHub Copilot (Pong)](<./02-GitHub Copilot (Pong)/>)**  
+  Jogo Pong em p5.js com sprites, sons e placar falado — explorando o GitHub Copilot.
 
 ---
 
